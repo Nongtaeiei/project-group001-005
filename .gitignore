@@ -1,0 +1,19 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and Secrets
+.env
+.env.local
+*.env
+
+# Dependencies & Package Managers
+node_modules/
+vendor/
+
+# Logs & Cache
+*.log
+.cache/
+.temp/
+
